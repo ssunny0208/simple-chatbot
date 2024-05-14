@@ -102,8 +102,8 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>A Simple Chatbot</title>
-        <meta name="description" content="A Simple Chatbot" />
+        <title>BLACK SHADOW BUBBLE</title>
+        <meta name="description" content="BLACK SHADOW BUBBLE" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
@@ -115,7 +115,7 @@ export default function Home() {
               className="ml-2 hover:opacity-50"
               href="https://code-scaffold.vercel.app"
             >
-              A Simple Chatbot
+              BLACK SHADOW BUBBLE
             </a>
           </div>
         </div>
