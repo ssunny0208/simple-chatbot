@@ -1,5 +1,5 @@
 {
-  "name": "my-app-name",
+  "name": "chatbot",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -12,9 +12,9 @@
     "@ai-sdk/google": "^0.0.10",
     "@google/generative-ai": "^0.11.1",
     "@tabler/icons-react": "^3.3.0",
+    "next": "14.2.3",
     "react": "^18",
-    "react-dom": "^18",
-    "next": "14.2.3"
+    "react-dom": "^18"
   },
   "devDependencies": {
     "postcss": "^8",

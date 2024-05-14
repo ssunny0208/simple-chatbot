@@ -80,7 +80,11 @@ export default function Home() {
     setMessages([
       {
         role: "model",
-        parts: [{ text: "안녕? 나는 엘리엇이야. 오늘은 무슨 일이 있었니?" }],
+        parts: [
+          {
+            text: "안녕하세요 블랙쉐도우에요. 방금 연습 끝났어요. 브리또는 지금 뭐해요?",
+          },
+        ],
       },
     ]);
   };
